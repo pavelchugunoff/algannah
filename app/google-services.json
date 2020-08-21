@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815198080451",
+    "firebase_url": "https://algannah.firebaseio.com",
+    "project_id": "algannah",
+    "storage_bucket": "algannah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815198080451:android:018774b838857a6aad8176",
+        "android_client_info": {
+          "package_name": "com.chugunoff.algannah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815198080451-4ppe8il6qqj8uq6a1ib1ah44ivshbro5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chugunoff.algannah",
+            "certificate_hash": "7dfda45ec4b7e7221361c5e2079d5f3d02291538"
+          }
+        },
+        {
+          "client_id": "815198080451-oq751j7eq9ngicvdbev712b3a22e8o8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGjN36UjwrnDcW1vMtehWzvZfkOmTS7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815198080451-oq751j7eq9ngicvdbev712b3a22e8o8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
